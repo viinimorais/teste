@@ -1,0 +1,14 @@
+topo
+	-user_edit.php(link)
+user_edit
+	-criar
+modelo
+	-editar o requerire_once
+	-pegar o modelo para colocar no user_new
+user_edit
+	-modificar
+user_new_form
+	-criar
+user_new
+	-alterar
+
